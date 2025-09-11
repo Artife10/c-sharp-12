@@ -1,0 +1,7 @@
+D:\RKB\CS\wawa\bin\Debug\wawa.exe.config
+D:\RKB\CS\wawa\bin\Debug\wawa.exe
+D:\RKB\CS\wawa\bin\Debug\wawa.pdb
+D:\RKB\CS\wawa\obj\Debug\wawa.csproj.AssemblyReference.cache
+D:\RKB\CS\wawa\obj\Debug\wawa.csproj.CoreCompileInputs.cache
+D:\RKB\CS\wawa\obj\Debug\wawa.exe
+D:\RKB\CS\wawa\obj\Debug\wawa.pdb
