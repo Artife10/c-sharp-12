@@ -70,8 +70,7 @@ namespace classos
 
             Console.WriteLine("Tóbiás ide jár: ");
             Console.WriteLine(tobias.GetIskola());
-            Console.WriteLine();*/
-
+            Console.WriteLine();
             List<Diak> diakok = new List<Diak>();
 
             string[] keresztnevek = {"Alex", "Ágnes", "Tóbiás", "Alexander", "Benjamin","Dominik","Mira","Bandi","Nándi","Náder"};
@@ -88,11 +87,34 @@ namespace classos
                 diakok.Add(deak);
             }
 
+            Console.WriteLine("NÉV   |    KOR    |   ISKOLA");
+
             foreach (var d in diakok)
             {
                 Console.WriteLine(d.GetNev()+" || "+d.GetKor().ToString()+" || "+ d.GetIskola());
                 Console.WriteLine();
-            }
+            }*/
+
+            Diak bekert = new Diak();
+
+            Console.WriteLine("Kérem a neved: ");
+            string nev = Console.ReadLine();
+            Console.WriteLine("Kérem a korod: ");
+            int kor = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Kérem az iskolád: ");
+            string suli = Console.ReadLine();
+
+            bekert.SetNev(nev);
+            bekert.SetKor(kor);
+            bekert.SetIskola(suli);
+
+            Console.WriteLine();
+            Console.WriteLine();
+
+            Console.WriteLine("Neved: "+bekert.GetNev());
+            Console.WriteLine("Korod: " + bekert.GetKor().ToString());
+            Console.WriteLine("Iskolád: " + bekert.GetIskola());
+
 
         }
     }
