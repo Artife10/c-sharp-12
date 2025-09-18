@@ -1,0 +1,7 @@
+D:\RKB\classos\bin\Debug\classos.exe.config
+D:\RKB\classos\bin\Debug\classos.exe
+D:\RKB\classos\bin\Debug\classos.pdb
+D:\RKB\classos\obj\Debug\classos.csproj.AssemblyReference.cache
+D:\RKB\classos\obj\Debug\classos.csproj.CoreCompileInputs.cache
+D:\RKB\classos\obj\Debug\classos.exe
+D:\RKB\classos\obj\Debug\classos.pdb
