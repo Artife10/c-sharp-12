@@ -48,6 +48,25 @@ namespace classos
             {
                 return iskola;
             }
+
+            public void Greet()
+            {
+                Console.WriteLine("Szia! a nevem "+this.nev+" "+this.kor.ToString()+" éves vagyok és "+this.iskola+"ba/be járok!");
+            }
+
+            public string Nagykoru()
+            {
+                if (this.kor > 17)
+                {
+                    return "Nagykorú";
+                }
+                else
+                {
+                    return "Kiskrú";
+                }
+            }
+
+
         }
 
         static void Main(string[] args)
@@ -114,6 +133,11 @@ namespace classos
             Console.WriteLine("Neved: "+bekert.GetNev());
             Console.WriteLine("Korod: " + bekert.GetKor().ToString());
             Console.WriteLine("Iskolád: " + bekert.GetIskola());
+
+
+            Console.WriteLine();
+            bekert.Greet();
+            Console.WriteLine(bekert.Nagykoru());
 
 
         }
