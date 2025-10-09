@@ -15,12 +15,19 @@ namespace OsztalyScopeGyakorlas
     {
         public string Nev { get; set; }
         private int kor;
-        
+
         public void BeallitKor(int kor)
         {
-            this.kor = kor;
+            if (kor > 0)
+            {
+                this.kor = kor;
+                Console.WriteLine("Sikeres");
+            }
+            else
+            {
+                Console.WriteLine("Nem vagy minusz éves");
+            }
         }
-
         public void Kiir()
         {
             Console.WriteLine($"Név: {Nev} \nKor {kor}");
@@ -43,7 +50,15 @@ namespace OsztalyScopeGyakorlas
 
         public void BeallitEletkor(int kor)
         {
-            this.eletkor = kor;
+            if (kor > 0)
+            {
+                this.eletkor = kor;
+                Console.WriteLine("Sikeres");
+            }
+            else
+            {
+                Console.WriteLine("Nem lehet minusz éves");
+            }
         }
 
         public void Kiir()
@@ -158,7 +173,7 @@ namespace OsztalyScopeGyakorlas
 
         public void AtlagSzamit()
         {
-            double atlag = jegyek.Sum()/jegyek.Count();
+            double atlag = Convert.ToDouble(jegyek.Sum()) / Convert.ToDouble(jegyek.Count());
             Console.WriteLine($"A diák átlaga {atlag}");
         }
 
@@ -192,6 +207,7 @@ namespace OsztalyScopeGyakorlas
 
             Diak Reneged = new Diak();
             Reneged.Nev = "Pataki Renegéd";
+            Reneged.BeallitKor(-21);
             Reneged.BeallitKor(21);
             Reneged.Kiir();
 
@@ -202,6 +218,7 @@ namespace OsztalyScopeGyakorlas
 
             Kutya besenyo = new Kutya();
             besenyo.Nev = "Besenyő";
+            besenyo.BeallitEletkor(-12);
             besenyo.BeallitEletkor(12);
             besenyo.Kiir();
 
