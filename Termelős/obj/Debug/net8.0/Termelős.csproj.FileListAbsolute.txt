@@ -1,0 +1,14 @@
+D:\RKB\CS\Termelős\bin\Debug\net8.0\Termelős.exe
+D:\RKB\CS\Termelős\bin\Debug\net8.0\Termelős.deps.json
+D:\RKB\CS\Termelős\bin\Debug\net8.0\Termelős.runtimeconfig.json
+D:\RKB\CS\Termelős\bin\Debug\net8.0\Termelős.dll
+D:\RKB\CS\Termelős\bin\Debug\net8.0\Termelős.pdb
+D:\RKB\CS\Termelős\obj\Debug\net8.0\Termelős.GeneratedMSBuildEditorConfig.editorconfig
+D:\RKB\CS\Termelős\obj\Debug\net8.0\Termelős.AssemblyInfoInputs.cache
+D:\RKB\CS\Termelős\obj\Debug\net8.0\Termelős.AssemblyInfo.cs
+D:\RKB\CS\Termelős\obj\Debug\net8.0\Termelős.csproj.CoreCompileInputs.cache
+D:\RKB\CS\Termelős\obj\Debug\net8.0\Termelős.dll
+D:\RKB\CS\Termelős\obj\Debug\net8.0\refint\Termelős.dll
+D:\RKB\CS\Termelős\obj\Debug\net8.0\Termelős.pdb
+D:\RKB\CS\Termelős\obj\Debug\net8.0\Termelős.genruntimeconfig.cache
+D:\RKB\CS\Termelős\obj\Debug\net8.0\ref\Termelős.dll
