@@ -1,0 +1,14 @@
+D:\RKB\CS\markolos\obj\Debug\net8.0\markolos.GeneratedMSBuildEditorConfig.editorconfig
+D:\RKB\CS\markolos\obj\Debug\net8.0\markolos.AssemblyInfoInputs.cache
+D:\RKB\CS\markolos\obj\Debug\net8.0\markolos.AssemblyInfo.cs
+D:\RKB\CS\markolos\obj\Debug\net8.0\markolos.csproj.CoreCompileInputs.cache
+D:\RKB\CS\markolos\bin\Debug\net8.0\markolos.exe
+D:\RKB\CS\markolos\bin\Debug\net8.0\markolos.deps.json
+D:\RKB\CS\markolos\bin\Debug\net8.0\markolos.runtimeconfig.json
+D:\RKB\CS\markolos\bin\Debug\net8.0\markolos.dll
+D:\RKB\CS\markolos\bin\Debug\net8.0\markolos.pdb
+D:\RKB\CS\markolos\obj\Debug\net8.0\markolos.dll
+D:\RKB\CS\markolos\obj\Debug\net8.0\refint\markolos.dll
+D:\RKB\CS\markolos\obj\Debug\net8.0\markolos.pdb
+D:\RKB\CS\markolos\obj\Debug\net8.0\markolos.genruntimeconfig.cache
+D:\RKB\CS\markolos\obj\Debug\net8.0\ref\markolos.dll
