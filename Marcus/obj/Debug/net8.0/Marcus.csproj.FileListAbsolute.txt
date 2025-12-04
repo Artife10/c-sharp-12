@@ -1,0 +1,14 @@
+D:\rkb\c\Marcus\bin\Debug\net8.0\Marcus.exe
+D:\rkb\c\Marcus\bin\Debug\net8.0\Marcus.deps.json
+D:\rkb\c\Marcus\bin\Debug\net8.0\Marcus.runtimeconfig.json
+D:\rkb\c\Marcus\bin\Debug\net8.0\Marcus.dll
+D:\rkb\c\Marcus\bin\Debug\net8.0\Marcus.pdb
+D:\rkb\c\Marcus\obj\Debug\net8.0\Marcus.GeneratedMSBuildEditorConfig.editorconfig
+D:\rkb\c\Marcus\obj\Debug\net8.0\Marcus.AssemblyInfoInputs.cache
+D:\rkb\c\Marcus\obj\Debug\net8.0\Marcus.AssemblyInfo.cs
+D:\rkb\c\Marcus\obj\Debug\net8.0\Marcus.csproj.CoreCompileInputs.cache
+D:\rkb\c\Marcus\obj\Debug\net8.0\Marcus.dll
+D:\rkb\c\Marcus\obj\Debug\net8.0\refint\Marcus.dll
+D:\rkb\c\Marcus\obj\Debug\net8.0\Marcus.pdb
+D:\rkb\c\Marcus\obj\Debug\net8.0\Marcus.genruntimeconfig.cache
+D:\rkb\c\Marcus\obj\Debug\net8.0\ref\Marcus.dll
