@@ -8,9 +8,9 @@
 
             Console.WriteLine("Made by Artifex");
             Thread.Sleep(800);
-            Console.WriteLine("12/b szf1");
+            Console.WriteLine("With many love from HSZC Pollák Antal Technikum");
             Thread.Sleep(800);
-            Console.WriteLine();
+            Console.WriteLine("<3");
             Thread.Sleep(800);
             Console.WriteLine();
 
@@ -19,9 +19,13 @@
 
             foreach (var item in worked)
             {
-                Thread.Sleep(800);
+                Thread.Sleep(3860/2);
                 Console.WriteLine(item);
             }
+
+            Thread.Sleep(3860 * 2);
+            Console.WriteLine("<3");
+            Thread.Sleep(2000);
         }
     }
 }

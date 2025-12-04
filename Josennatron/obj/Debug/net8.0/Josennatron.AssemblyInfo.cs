@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Josennatron")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+030c3a841793608b75ecfd067f48081364d34ecb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a26fe68ab2a66ed0632887b5453b72342a96035")]
 [assembly: System.Reflection.AssemblyProductAttribute("Josennatron")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Josennatron")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
