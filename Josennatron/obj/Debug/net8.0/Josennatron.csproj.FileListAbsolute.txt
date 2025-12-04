@@ -1,0 +1,15 @@
+D:\rkb\c-sharp-12\Josennatron\bin\Debug\net8.0\Josennatron.exe
+D:\rkb\c-sharp-12\Josennatron\bin\Debug\net8.0\Josennatron.deps.json
+D:\rkb\c-sharp-12\Josennatron\bin\Debug\net8.0\Josennatron.runtimeconfig.json
+D:\rkb\c-sharp-12\Josennatron\bin\Debug\net8.0\Josennatron.dll
+D:\rkb\c-sharp-12\Josennatron\bin\Debug\net8.0\Josennatron.pdb
+D:\rkb\c-sharp-12\Josennatron\obj\Debug\net8.0\Josennatron.GeneratedMSBuildEditorConfig.editorconfig
+D:\rkb\c-sharp-12\Josennatron\obj\Debug\net8.0\Josennatron.AssemblyInfoInputs.cache
+D:\rkb\c-sharp-12\Josennatron\obj\Debug\net8.0\Josennatron.AssemblyInfo.cs
+D:\rkb\c-sharp-12\Josennatron\obj\Debug\net8.0\Josennatron.csproj.CoreCompileInputs.cache
+D:\rkb\c-sharp-12\Josennatron\obj\Debug\net8.0\Josennatron.sourcelink.json
+D:\rkb\c-sharp-12\Josennatron\obj\Debug\net8.0\Josennatron.dll
+D:\rkb\c-sharp-12\Josennatron\obj\Debug\net8.0\refint\Josennatron.dll
+D:\rkb\c-sharp-12\Josennatron\obj\Debug\net8.0\Josennatron.pdb
+D:\rkb\c-sharp-12\Josennatron\obj\Debug\net8.0\Josennatron.genruntimeconfig.cache
+D:\rkb\c-sharp-12\Josennatron\obj\Debug\net8.0\ref\Josennatron.dll
